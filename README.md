@@ -29,7 +29,8 @@ Whatsapp bot queen dinu md
 
 3._Get sessing id and deploy bot you
 
-[IF YOU HAVE ANY PROBLEM]https://wa.me/message/ORLONET77UUVI1
+[IF YOU HAVE ANY PROBLEMS]▽
+https://wa.me/message/ORLONET77UUVI1
 
 .DEPLOY ON RENDER
 
