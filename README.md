@@ -32,7 +32,7 @@ Whatsapp bot queen dinu md
 
 
 [IF YOU HAVE ANY PROBLEMS]▽
-https://wa.me/message/ORLONET77UUVI1
+[CONTACT ME](https://wa.me/message/ORLONET77UUVI1)
 
 WHATSAPP GROUP
   
