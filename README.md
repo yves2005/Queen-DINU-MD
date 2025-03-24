@@ -66,4 +66,17 @@ WHATSAPP GROUP
 
  3._scroll down and it has find  [18.x, 20.x, 22.x] <-- and change this to a  [20.x] this.
 
- 4.scroll down and find
+ 4.scroll down and find these.
+
+   - run: npm ci
+   - run: npm run build --if-present
+   - run: npm test
+
+5.chnage above sentences to
+
+   - run: npm install
+   - run: nmp start 
+   - run: npm test
+
+6.
+
