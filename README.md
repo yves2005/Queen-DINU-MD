@@ -20,9 +20,13 @@ Whatsapp bot queen dinu md
  - 2._Link with yoour whatsappp using pair code or qr code._
    *Pair with WhatsApp* 
 
-[PAIR CODE](https://asitha.top/pair)
+ 
+ ░▓[PAIR CODE](https://asitha.top/pair) 
 
-[QR SCANNER](https://asitha.top/qr)
+
+░▓ [QR SCANNER ](https://asitha.top/qr)
+
+
 
 *THANKS FOR ASITHA MD FOR GIVING ACCESS TO USE HIS PAGES*
 
