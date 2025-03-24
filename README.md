@@ -16,6 +16,6 @@ Whatsapp bot queen dinu md
 **. Deploy steps.*
  - 1._Fork queen Dinu repository._
     <br>
-    <a href="https://github.com/Dinuob/Queen DINU-MD/fork"><img title="Queen DINU-MD" src="https://img.shields.io/badge/FORK Queen_DINU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Dinuob/Queen-DINU-MD/fork"><img title="Queen DINU-MD" src="https://img.shields.io/badge/FORK Queen_DINU-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp* 
