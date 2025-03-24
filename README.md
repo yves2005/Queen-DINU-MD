@@ -27,7 +27,7 @@ Whatsapp bot queen dinu md
        </a>
    </p>
 
-3._Get sessing id and paste on [sessing](https://github.com/Dinuob/Queen-DINU-MD/blob/main/session.js)
+3._Get sessing id and paste on [here](https://github.com/Dinuob/Queen-DINU-MD/blob/main/session.js) touch pencil button and paste your id there
 
 
 
