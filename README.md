@@ -27,7 +27,7 @@ Whatsapp bot queen dinu md
        </a>
    </p>
 
-3._Get sessing id and deploy bot you
+3._Get sessing id and paste on sessing
 
 
 [IF YOU HAVE ANY PROBLEMS]▽
