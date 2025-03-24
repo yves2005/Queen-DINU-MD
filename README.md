@@ -49,6 +49,6 @@ WHATSAPP GROUP
  .Deploy on Heroku
   <p align="center">
     <a href="https://heroku.com/deploy?template=https://github.com/Dinuob/Queen-DINU-MD/tree/bot#queen-dinu-md">
-      <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
     </a>
   </p>
