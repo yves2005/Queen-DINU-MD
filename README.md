@@ -56,3 +56,7 @@ WHATSAPP GROUP
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
     </a>
   </p>
+
+ *GITHUB DEPLOY*
+
+ 1._after you paste sessing id touch action
