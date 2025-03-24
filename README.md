@@ -36,3 +36,10 @@ https://wa.me/message/ORLONET77UUVI1
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Dinuob/Queen-DINU-MD/tree/bot#queen-dinu-md.git)
 
+
+ .Deploy on Heroku
+  <p align="center">
+    <a href="https://heroku.com/deploy?template=https://github.com/Dinuob/Queen-DINU-MD/tree/bot#queen-dinu-md">
+      <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+    </a>
+  </p>
