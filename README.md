@@ -28,7 +28,7 @@ Whatsapp bot queen dinu md
 
 
 
-*THANKS FOR ASITHA MD FOR GIVING ACCESS TO USE HIS PAGES*
+(_*THANKS FOR ASITHA MD FOR GIVING ACCESS TO USE HIS PAGES*_)
 
 3._Get your sessing id 
 
