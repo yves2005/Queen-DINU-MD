@@ -2,7 +2,7 @@
 Whatsapp bot queen dinu md
 
 
- (QUEEN DINU MD CREATED BY DINETH SATHSARA AND RASHMIKA) new whatsapp bot thanks for all supporters enjoy your bot.please don't use bot to troubles others.
+ (QUEEN DINU MD CREATED BY DINETH SATHSARA AND RASHMIKA , THANKS FOR ASITHA MD TO GIVING ACCESS TO USE HIS PAGES) new whatsapp bot thanks for all supporters enjoy your bot.please don't use bot to troubles others.
  
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
@@ -23,7 +23,6 @@ Whatsapp bot queen dinu md
  
  ░▓[PAIR CODE](https://asitha.top/pair) 
                     
-  ( _THANKS FOR ASITHA FOR GIVING ACCESS TO USE HIS PAGES_ )
 
 ░▓ [QR SCANNER ](https://asitha.top/qr)
 
