@@ -57,6 +57,11 @@ WHATSAPP GROUP
     </a>
   </p>
 
- *GITHUB DEPLOY*
+ 
+   ꧁*GITHUB DEPLOY*꧂
 
- 1._after you paste sessing id touch action
+ 1._after you paste sessing id touch [action](https://github.com/Dinuob/Queen-DINU-MD/actions/new).
+
+ 2._serch node.js and open it.
+
+ 3._scroll down and it has 
