@@ -78,5 +78,15 @@ WHATSAPP GROUP
    - run: nmp start 
    - run: npm test
 
-6.and create a new folder
+6.and create a new [file](https://github.com/Dinuob/Queen-DINU-MD/new/main) named [package-lock.json] 
+
+7._Go to the action and you will find to workflow name
+[create package-lock.json]
+
+[Create node.js.yml]
+
+
+8.click on [create packege-lock.json] and wait you bot is connect in your whatsapp enjoy your bot ❤️
+
+
 
