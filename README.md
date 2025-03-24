@@ -88,5 +88,7 @@ WHATSAPP GROUP
 
 8.click on [create packege-lock.json] and wait you bot is connect in your whatsapp enjoy your bot ❤️
 
+[BOT WORKING 24/6]
+
 
 
