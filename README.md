@@ -1,6 +1,5 @@
 # Queen-DINU-MD
-Whatsapp bot
-div class = "repo" align = "center">
+Whatsapp bot queen dinu md
 
 
  (QUEEN DINU MD CREATED BY DINETH SATHSARA AND RASHMIKA) new whatsapp bot thanks for all supporters enjoy your bot
