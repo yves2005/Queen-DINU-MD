@@ -27,7 +27,8 @@ Whatsapp bot queen dinu md
        </a>
    </p>
 
-3._Get sessing id and paste on [here](https://github.com/Dinuob/Queen-DINU-MD/blob/main/session.js) touch pencil button and paste your id there
+3._Get your sessing id 
+4._touch pencil and paste [here](https://github.com/Dinuob/Queen-DINU-MD/blob/main/session.js)
 
 
 
@@ -39,7 +40,7 @@ WHATSAPP GROUP
   
    <a href="https://chat.whatsapp.com/CDacy9Q8jXu4Oi35wMHVX2"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    
-❥─CONTACT US❥─
+*❥─CONTACT US❥─*
 
 
 
