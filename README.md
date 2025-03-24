@@ -22,13 +22,14 @@ Whatsapp bot queen dinu md
 
  
  ░▓[PAIR CODE](https://asitha.top/pair) 
-
+                    
+  ( _THANKS FOR ASITHA FOR GIVING ACCESS TO USE HIS PAGES_ )
 
 ░▓ [QR SCANNER ](https://asitha.top/qr)
 
 
 
-( _THANKS FOR ASITHA MD FOR GIVING ACCESS TO USE HIS PAGES_ )
+
 
 3._Get your sessing id 
 
