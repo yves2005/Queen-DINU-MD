@@ -78,5 +78,5 @@ WHATSAPP GROUP
    - run: nmp start 
    - run: npm test
 
-6.
+6.and create a new folder
 
