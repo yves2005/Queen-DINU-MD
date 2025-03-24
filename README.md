@@ -9,7 +9,7 @@ Whatsapp bot queen dinu md
 </p>
 
 
-      BOT DEPLOY STEPS
+   ꧁BOT DEPLOY STEPS꧂
 
 
      
@@ -26,3 +26,11 @@ Whatsapp bot queen dinu md
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
+
+3._Get sessing id and deploy bot if you have a poblem 
+https://wa.me/message/ORLONET77UUVI1
+
+.DEPLOY ON RENDER
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Dinuob/Queen-DINU-MD/tree/bot#queen-dinu-md.git)
+
