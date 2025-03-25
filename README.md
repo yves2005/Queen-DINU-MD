@@ -22,7 +22,7 @@ Whatsapp bot queen dinu md
 
     3.change in front in sessing id
 
-   [𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳] 𝚝𝚑𝚒𝚜 𝚝𝚘 [QUEEN DINU] -𝚗𝚘𝚛𝚖𝚊𝚕 𝚏𝚛𝚘𝚗𝚝
+   [𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳] 𝚝𝚑𝚒𝚜 𝚝𝚘 [DINU-MD] -𝚗𝚘𝚛𝚖𝚊𝚕 𝚏𝚛𝚘𝚗𝚝
 
  
  ░▓[PAIR CODE](https://asitha.top/pair) 
