@@ -18,7 +18,11 @@ Whatsapp bot queen dinu md
     <br>
     <a href="https://github.com/Dinuob/Queen-DINU-MD/fork"><img title="Queen DINU-MD" src="https://img.shields.io/badge/FORK Queen_DINU-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code or qr code._
-   *Pair with WhatsApp* 
+   *Pair with WhatsApp*
+
+    3.change in front in sessing id
+
+   [𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳] 𝚝𝚑𝚒𝚜 𝚝𝚘 [QUEEN DINU] -𝚗𝚘𝚛𝚖𝚊𝚕 𝚏𝚛𝚘𝚗𝚝
 
  
  ░▓[PAIR CODE](https://asitha.top/pair) 
