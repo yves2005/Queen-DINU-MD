@@ -60,10 +60,10 @@ WHATSAPP GROUP
  ### Deploy on Heroku
   
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/hiranyaofc/HIRAN_MD_V-3/tree/main">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
-  </a>
-</p>
+    <a href="https://heroku.com/deploy?template=https://github.com/Mrrashmika/QUEEN-ANJU_XPRO">
+      <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+    </a>
+  </p>
 
  
    # ꧁*GITHUB DEPLOY*꧂
