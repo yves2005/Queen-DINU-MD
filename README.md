@@ -64,7 +64,7 @@ WHATSAPP GROUP
  ### Deploy on Heroku
   
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Mrrashmika/QUEEN-ANJU_XPRO">
+    <a href="https://heroku.com/deploy?template=https://github.com/Dinuob/Queen-DINU-MD">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
     </a>
   </p>
