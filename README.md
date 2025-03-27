@@ -1,5 +1,5 @@
 # Queen-DINU-MD
-#Whatsapp bot queen dinu md
+# Whatsapp bot queen dinu md
 
 
  (QUEEN DINU MD CREATED BY DINETH SATHSARA AND RASHMIKA , THANKS FOR ASITHA MD TO GIVING ACCESS TO USE HIS PAGES) new whatsapp bot thanks for all supporters enjoy your bot.please don't use bot to troubles others.
@@ -9,7 +9,7 @@
 </p>
 
 
-   $꧁BOT DEPLOY STEPS꧂
+   # ꧁BOT DEPLOY STEPS꧂
 
 
      
@@ -17,10 +17,10 @@
  - 1._Fork queen Dinu repository._
     <br>
     <a href="https://github.com/Dinuob/Queen-DINU-MD/fork"><img title="Queen DINU-MD" src="https://img.shields.io/badge/FORK Queen_DINU-h?color=black&style=for-the-badge&logo=stackshare"></a>
- - #2._Link with yoour whatsappp using pair code or qr code._
+ - # 2._Link with yoour whatsappp using pair code or qr code._
    *Pair with WhatsApp*
 
-    $3.change in front in sessing id
+    # 3.change in front in sessing id
 
    [𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳] 𝚝𝚑𝚒𝚜 𝚝𝚘 [DINU-MD] -𝚗𝚘𝚛𝚖𝚊𝚕 𝚏𝚛𝚘𝚗𝚝
 
@@ -34,9 +34,9 @@
 
 
 
-$3._Get your sessing id 
+$ 3._Get your sessing id 
 
-$4._touch pencil and paste [here](https://github.com/Dinuob/Queen-DINU-MD/blob/main/session.js)
+$ 4._touch pencil and paste [here](https://github.com/Dinuob/Queen-DINU-MD/blob/main/session.js)
 
 
 
@@ -65,7 +65,7 @@ WHATSAPP GROUP
   </p>
 
  
-   $꧁*GITHUB DEPLOY*꧂
+   # ꧁*GITHUB DEPLOY*꧂
 
  1._after you paste sessing id touch [action](https://github.com/Dinuob/Queen-DINU-MD/actions/new).
 
