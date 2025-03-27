@@ -1,5 +1,5 @@
 # Queen-DINU-MD
- Whatsapp bot queen dinu md
+ # 💘 QUEEN DINU MD 💘
 
 
   _(QUEEN DINU MD CREATED BY DINETH SATHSARA AND RASHMIKA , THANKS FOR ASITHA MD TO GIVING ACCESS TO USE HIS PAGES) new whatsapp bot thanks for all supporters enjoy your bot.please don't use bot to troubles others._
